@@ -1,4 +1,2 @@
-# el-converterapp
-For ACM
-
-Converts dollars to euros.
+# Projects
+Small projects I do for fun and to gain experience
